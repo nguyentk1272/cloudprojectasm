@@ -1,5 +1,4 @@
 <?php
-include "online-shopping-system/index.php";
 include "online-shopping-system/header.php";
 
 include "online-shopping-system/body.php";
