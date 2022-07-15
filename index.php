@@ -1,6 +1,6 @@
 <?php
 
-
+<a href="./online-shopping-system/index.php">Home</a>
 include "header.php";
 
 include "body.php";
